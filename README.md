@@ -8,7 +8,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum](https://leetcode.com/problems/two-sum/) | |Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/) |[Java](./src/leetcode75/TwoSum.java)|Easy|
 |2|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | |Easy|
 |3|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | |Easy|
 |4|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | |Medium|
