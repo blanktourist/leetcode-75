@@ -12,7 +12,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |2|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[Java](./src/leetcode75/BestTimeToBuyAndSellStock.java)|Easy|
 |3|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) |[Java](./src/leetcode75/ContainsDuplicate.java)|Easy|
 |4|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[Java](./src/leetcode75/ProductOfArrayExceptSelf.java)|Medium|
-|5|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | |Easy|
+|5|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[Java](./src/leetcode75/MaximumSubarray.java)|Easy|
 |6|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | |Medium|
 |7|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | |Medium|
 |8|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | |Medium|
