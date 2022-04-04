@@ -28,6 +28,7 @@ public class FindMinimumInRotatedSortedArray {
 
         return l;
     }
+    
     public static void main(String[] args) {
         int[] test1 = {3,4,5,1,2};
         int[] test2 = {4,5,6,7,0,1,2};
