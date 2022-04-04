@@ -24,11 +24,11 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|11|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | |Medium|
-|12|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | |Easy|
-|13|[Counting Bits](https://leetcode.com/problems/counting-bits/) | |Easy|
-|14|[Missing Number](https://leetcode.com/problems/missing-number/) | |Easy|
-|15|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) | |Easy|
+|11|[Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) |[Java](./src/leetcode75/SumOfTwoIntegers.java)|Medium|
+|12|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |[Java](./src/leetcode75/NumberOfOneBits.java)|Easy|
+|13|[Counting Bits](https://leetcode.com/problems/counting-bits/) |[Java](./src/leetcode75/CountingBits.java)|Easy|
+|14|[Missing Number](https://leetcode.com/problems/missing-number/) |[Java](./src/leetcode75/MissingNumber.java)|Easy|
+|15|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) |[Java](./src/leetcode75/ReverseBits.java)|Easy|
 
 ### Dynamic Programming 
 
