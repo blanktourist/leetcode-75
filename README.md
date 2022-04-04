@@ -14,7 +14,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |4|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) |[Java](./src/leetcode75/ProductOfArrayExceptSelf.java)|Medium|
 |5|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[Java](./src/leetcode75/MaximumSubarray.java)|Easy|
 |6|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) |[Java](./src/leetcode75//MaximumProductSubarray.java)|Medium|
-|7|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | |Medium|
+|7|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) |[Java](./src/leetcode75/FindMinimumInRotatedSortedArray.java)|Medium|
 |8|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | |Medium|
 |9|[3Sum](https://leetcode.com/problems/3sum/) | |Medium|
 |10|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |[Java](./src/leetcode75/ContainerWithMostWater.java)|Medium|
