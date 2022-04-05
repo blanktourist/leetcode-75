@@ -84,7 +84,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|46|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | |Medium|
+|46|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Java](./src/leetcode75/SetMatrixZeros.java)|Medium|
 |47|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | |Medium|
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/) | |Medium|
 |49|[Word Search](https://leetcode.com/problems/word-search/) | |Medium|
