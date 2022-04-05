@@ -34,17 +34,17 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|16|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | |Easy|
-|17|[Coin Change](https://leetcode.com/problems/coin-change/) | |Medium|
-|18|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | |Medium|
-|19|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | |Medium|
-|20|[Word Break Problem](https://leetcode.com/problems/word-break/) | |Medium|
-|21|[Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | |Medium|
-|22|[House Robber](https://leetcode.com/problems/house-robber/) | |Medium|
-|23|[House Robber II](https://leetcode.com/problems/house-robber-ii/) | |Medium|
-|24|[Decode Ways](https://leetcode.com/problems/decode-ways/) | |Medium|
-|25|[Unique Paths](https://leetcode.com/problems/unique-paths/) | |Medium|
-|26|[Jump Game](https://leetcode.com/problems/jump-game/) | |Medium|
+|16|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[Java](./src/leetcode75/ClimbingStairs.java)|Easy|
+|17|[Coin Change](https://leetcode.com/problems/coin-change/) |[Java](./src/leetcode75/CoinChange.java)|Medium|
+|18|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[Java](./src/leetcode75/LongestIncreasingSubsequence.java)|Medium|
+|19|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) |[Java](./src//leetcode75/LongestCommonSubsequence.java)|Medium|
+|20|[Word Break Problem](https://leetcode.com/problems/word-break/) |[Java](./src/leetcode75/WordBreak.java)|Medium|
+|21|[Combination Sum](https://leetcode.com/problems/combination-sum-iv/) |[Java](./src/leetcode75/CombinationSumIV.java)|Medium|
+|22|[House Robber](https://leetcode.com/problems/house-robber/) |[Java](./src/leetcode75/HouseRobber.java)|Medium|
+|23|[House Robber II](https://leetcode.com/problems/house-robber-ii/) |[Java](./src/leetcode75/HouseRobberII.java)|Medium|
+|24|[Decode Ways](https://leetcode.com/problems/decode-ways/) |[Java](./src/leetcode75/DecodeWays.java)|Medium|
+|25|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[Java](./src/leetcode75/UniquePaths.java)|Medium|
+|26|[Jump Game](https://leetcode.com/problems/jump-game/) |[Java](./src/leetcode75/JumpGame.java)|Medium|
 
 ### Graph
 
