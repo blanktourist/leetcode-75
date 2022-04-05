@@ -93,16 +93,16 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|50|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | |Medium|
-|51|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | |Medium|
+|50|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[Java](./src/leetcode75/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
+|51|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |[Java](./src/leetcode75/LongestRepeatingCharacterReplacement.java|Medium|
 |52|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | |Hard|
-|53|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) | |Easy|
-|54|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) | |Medium|
-|55|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | |Easy|
-|56|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | |Easy|
+|53|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Java](./src/leetcode75/ValidAnagram.java)|Easy|
+|54|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Java](./src/leetcode75/GroupAnagrams.java)|Medium|
+|55|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[Java](./src/leetcode75/ValidParentheses.java)|Easy|
+|56|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[Java](./src/leetcode75/ValidPalindrome.java)|Easy|
 |57|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | |Medium|
 |58|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | |Medium|
-|59|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | |Medium|
+|59|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[Java](./src/leetcode75/EncodeAndDecodeStrings.java)|Medium|
 
 ### Tree
 
