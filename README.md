@@ -63,7 +63,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|35|[Insert Interval](https://leetcode.com/problems/insert-interval/) | |Medium|
+|35|[Insert Interval](https://leetcode.com/problems/insert-interval/) |[Java](./src/leetcode75/InsertInterval.java)|Medium|
 |36|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | |Medium|
 |37|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | |Medium|
 |38|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | |Easy|
