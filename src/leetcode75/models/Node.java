@@ -11,11 +11,15 @@ public class Node {
 
     public int value;
     
+
     public Node left;
 
     public Node right;
 
     public Node parent;
+
+
+    public Node next;
 
     public List<Node> neighbors;
 
@@ -34,5 +38,10 @@ public class Node {
     public Node(int value, ArrayList<Node> neighbors) {
         this.value = value;
         this.neighbors = neighbors;
+    }
+
+    @Override
+    public String toString() {
+        return String.valueOf(this.value);
     }
 }
