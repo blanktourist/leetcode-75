@@ -17,6 +17,24 @@ public class BinaryTreeUtils {
         return root;
     }
 
+    public static BinaryTreeNode buildGenericBinaryTreeTwo() {
+        BinaryTreeNode l0 = new BinaryTreeNode(3);
+        BinaryTreeNode l1 = new BinaryTreeNode(5);
+
+        BinaryTreeNode m1 = new BinaryTreeNode(0);
+        BinaryTreeNode m2 = new BinaryTreeNode(4, l0, l1);
+        BinaryTreeNode m3 = new BinaryTreeNode(7);
+        BinaryTreeNode m4 = new BinaryTreeNode(9);
+
+
+        BinaryTreeNode n1 = new BinaryTreeNode(2, m1, m2);
+        BinaryTreeNode n2 = new BinaryTreeNode(8, m3, m4);
+
+        BinaryTreeNode root = new BinaryTreeNode(6, n1, n2);
+        
+        return root;
+    }
+
     public static void printBinaryTree(BinaryTreeNode root) {
         if (root == null) {
             return;
