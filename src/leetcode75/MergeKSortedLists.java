@@ -9,9 +9,6 @@ import utils.LinkedListUtils;
 public class MergeKSortedLists {
     
     public static ListNode mergeKSortedLists(List<ListNode> lists) {
-        int k = lists.size();
-        
-        // Put k lists in a queue
         PriorityQueue<ListNode> queue = new PriorityQueue<ListNode>((a,b) -> a.value - b.value);
         for (ListNode n : lists) {
             queue.add(n);
