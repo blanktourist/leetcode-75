@@ -108,7 +108,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|60|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | |Easy|
+|60|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Java](./src/leetcode75/MaximumDepthOfBinaryTree.java)|Easy|
 |61|[Same Tree](https://leetcode.com/problems/same-tree/) | |Easy|
 |62|[Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | |Easy|
 |63|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | |Hard|
