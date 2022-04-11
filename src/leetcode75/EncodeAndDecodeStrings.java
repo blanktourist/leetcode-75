@@ -20,7 +20,7 @@ public class EncodeAndDecodeStrings {
   // Decodes a single string to a list of strings.
   public static List<String> decode(String s) {
     String d = Character.toString((char)258);
-    if (s.equals(d)) return new ArrayList();
+    if (s.equals(d)) return new ArrayList<String>();
 
     d = Character.toString((char)257);
     return Arrays.asList(s.split(d, -1));

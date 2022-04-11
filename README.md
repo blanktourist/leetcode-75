@@ -94,7 +94,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |50|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[Java](./src/leetcode75/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
-|51|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |[Java](./src/leetcode75/LongestRepeatingCharacterReplacement.java|Medium|
+|51|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |[Java](./src/leetcode75/LongestRepeatingCharacterReplacement.java)|Medium|
 |52|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | |Hard|
 |53|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Java](./src/leetcode75/ValidAnagram.java)|Easy|
 |54|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Java](./src/leetcode75/GroupAnagrams.java)|Medium|

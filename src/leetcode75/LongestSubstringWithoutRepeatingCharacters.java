@@ -1,5 +1,3 @@
-import java.util.HashSet;
-
 public class LongestSubstringWithoutRepeatingCharacters {
     public static int returnLengthOfLongestSubstringWithoutRepeatingCharacters(String s) {
         int[] count = new int[128];
