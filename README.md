@@ -53,7 +53,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |27|[Clone Graph](https://leetcode.com/problems/clone-graph/) |[Java](./src/leetcode75/CloneGraph.java)|Medium|
 |28|[Course Schedule](https://leetcode.com/problems/course-schedule/) | |Medium|
 |29|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | |Medium|
-|30|[Number of Islands](https://leetcode.com/problems/number-of-islands/) | |Medium|
+|30|[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[Java](./src/leetcode75/NumberOfIslands.java)|Medium|
 |31|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | |Medium|
 |32|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | |Hard|
 |33|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | |Medium|
