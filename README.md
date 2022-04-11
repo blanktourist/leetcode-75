@@ -128,4 +128,4 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |---| ----- | -------- | ---------- |
 |73|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Java](./src/leetcode75/MergeKSortedLists.java)|Hard|
 |74|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[Java](./src/leetcode75/TopKFrequentElements.java)|Medium|
-|75|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | |Hard|
+|75|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) |[Java](./src/leetcode75/FindMedianFromDataStream.java)|Hard|
