@@ -76,7 +76,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |40|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Java](./src/leetcode75/ReverseLinkedList.java)|Easy|
 |41|[Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) |[Java](./src/leetcode75/DetectCycleInALinkedList.java)|Easy|
 |42|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[Java](./src/leetcode75/MergeTwoSortedLists.java)|Easy|
-|43|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | |Hard|
+|43|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Java](./src/leetcode75/MergeKSortedLists.java)|Hard|
 |44|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Java](./src/leetcode75/RemoveNthNodeFromEndOfList.java)|Medium|
 |45|[Reorder List](https://leetcode.com/problems/reorder-list/) |[Java](./src/leetcode75/ReorderList.java)|Medium|
 
