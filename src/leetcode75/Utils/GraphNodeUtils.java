@@ -1,5 +1,8 @@
 package utils;
 
+import java.util.HashSet;
+import java.util.PriorityQueue;
+
 import models.GraphNode;
 
 public class GraphNodeUtils {
@@ -23,5 +26,26 @@ public class GraphNodeUtils {
         n3.neighbors.add(n0);
 
         return n0;
+    }
+
+    public static void printGraph(GraphNode node) {
+        if (node == null) return;
+
+        HashSet<GraphNode> seen = new HashSet<>();
+        PriorityQueue<GraphNode> queue = new PriorityQueue<>((a,b) -> a.value - b.value);
+
+        seen.add(node);
+        queue.add(node);
+
+        while (!queue.isEmpty()) {
+            GraphNode cur = queue.poll();
+            System.out.println("Node: " + cur + " , Neighbors: " + cur.neighbors);
+            for (GraphNode neighbor : cur.neighbors) {
+                if (!seen.contains(neighbor)) {
+                    seen.add(neighbor);
+                    queue.add(neighbor);
+                }
+            }
+        }
     }
 }

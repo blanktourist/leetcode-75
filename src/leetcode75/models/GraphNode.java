@@ -23,4 +23,9 @@ public class GraphNode {
         this.value = value;
         this.neighbors = neighbors;
     }
+
+    @Override
+    public String toString() {
+        return String.valueOf(value);
+    }
 }

@@ -38,6 +38,9 @@ public class CloneGraph {
 
     public static void main(String[] args) {
         GraphNode node = GraphNodeUtils.buildGenericGraph();
+        GraphNodeUtils.printGraph(node);
+        System.out.println();
         GraphNode copy = cloneGraph(node);
+        GraphNodeUtils.printGraph(copy);
     }
 }
