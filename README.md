@@ -116,7 +116,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |65|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | |Hard|
 |66|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | |Easy|
 |67|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | |Medium|
-|68|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | |Medium|
+|68|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |[Java](./src/leetcode75/ValidateBinarySearchTree.java)|Medium|
 |69|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[Java](./src/leetcode75/KthSmallestElementInBinaryTree.java)|Medium|
 |70|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[Java](./src/leetcode75/LowestCommonAncestorOfBinarySearchTree.java)|Easy|
 |71|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | |Medium|
