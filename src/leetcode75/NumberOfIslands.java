@@ -1,5 +1,5 @@
-import Utils.GridUtils;
 import models.Directions;
+import utils.GridUtils;
 
 public class NumberOfIslands {
     public static int countNumberOfIslands(char[][] grid) {

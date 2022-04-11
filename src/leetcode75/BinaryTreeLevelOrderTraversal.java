@@ -1,8 +1,8 @@
 import java.util.ArrayList;
 import java.util.List;
 
-import Utils.BinaryTreeUtils;
 import models.BinaryTreeNode;
+import utils.BinaryTreeUtils;
 
 public class BinaryTreeLevelOrderTraversal {
     

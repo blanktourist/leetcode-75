@@ -1,7 +1,7 @@
 import java.util.LinkedList;
 
-import Utils.BinaryTreeUtils;
 import models.BinaryTreeNode;
+import utils.BinaryTreeUtils;
 
 public class KthSmallestElementInBinaryTree {
 

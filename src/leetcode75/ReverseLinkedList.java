@@ -1,5 +1,5 @@
-import Utils.LinkedListUtils;
 import models.ListNode;
+import utils.LinkedListUtils;
 
 public class ReverseLinkedList {
 

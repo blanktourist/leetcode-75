@@ -3,8 +3,8 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.PriorityQueue;
 
-import Utils.LinkedListUtils;
 import models.ListNode;
+import utils.LinkedListUtils;
 
 public class MergeKSortedLists {
     

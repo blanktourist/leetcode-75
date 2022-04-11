@@ -1,5 +1,5 @@
-import Utils.BinaryTreeUtils;
 import models.BinaryTreeNode;
+import utils.BinaryTreeUtils;
 
 public class InvertBinaryTree {
     
