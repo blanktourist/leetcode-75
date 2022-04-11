@@ -1,22 +1,22 @@
 import Utils.LinkedListUtils;
-import models.Node;
+import models.ListNode;
 
 public class ReorderList {
-    public static void reorderList(Node head) {
+    public static void reorderList(ListNode head) {
         if (head == null) return;
 
         // First find the middle node and split into 2 lists
-        Node slow = head;
-        Node fast = head;
+        ListNode slow = head;
+        ListNode fast = head;
         while (fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
         // Reverse the second list
-        Node prev = null;
-        Node cur = slow;
-        Node tmp;
+        ListNode prev = null;
+        ListNode cur = slow;
+        ListNode tmp;
         while (cur != null) {
             tmp = cur.next;
             cur.next = prev;
@@ -25,8 +25,8 @@ public class ReorderList {
         }
 
         // Weave the lists together
-        Node first = head;
-        Node second = prev;
+        ListNode first = head;
+        ListNode second = prev;
         while (second.next != null) {
             tmp = first.next;
             first.next = second;
@@ -39,7 +39,7 @@ public class ReorderList {
     }
 
     public static void main(String[] args) {
-        Node head1 = LinkedListUtils.buildGenericLinkedList();
+        ListNode head1 = LinkedListUtils.buildGenericLinkedList();
         reorderList(head1);
         LinkedListUtils.printLinkedList(head1);
     }

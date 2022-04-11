@@ -1,15 +1,15 @@
 package Utils;
 
-import models.Node;
+import models.ListNode;
 
 public class LinkedListUtils {
 
-    public static Node buildGenericLinkedList() {
-        Node n0 = new Node(1);
-        Node n1 = new Node(2);
-        Node n2 = new Node(3);
-        Node n3 = new Node(4);
-        Node n4 = new Node(5);
+    public static ListNode buildGenericLinkedList() {
+        ListNode n0 = new ListNode(1);
+        ListNode n1 = new ListNode(2);
+        ListNode n2 = new ListNode(3);
+        ListNode n3 = new ListNode(4);
+        ListNode n4 = new ListNode(5);
 
         n0.next = n1;
         n1.next = n2;
@@ -19,12 +19,12 @@ public class LinkedListUtils {
         return n0;
     }
 
-    public static Node buildCycleLinkedList() {
-        Node n0 = new Node(1);
-        Node n1 = new Node(2);
-        Node n2 = new Node(3);
-        Node n3 = new Node(4);
-        Node n4 = new Node(5);
+    public static ListNode buildCycleLinkedList() {
+        ListNode n0 = new ListNode(1);
+        ListNode n1 = new ListNode(2);
+        ListNode n2 = new ListNode(3);
+        ListNode n3 = new ListNode(4);
+        ListNode n4 = new ListNode(5);
 
         n0.next = n1;
         n1.next = n2;
@@ -35,10 +35,10 @@ public class LinkedListUtils {
         return n0;
     }
 
-    public static void printLinkedList(Node head) {
-        Node curr = head;
+    public static void printLinkedList(ListNode head) {
+        ListNode curr = head;
         while (curr != null) {
-            System.out.print(curr.value);
+            System.out.print(curr.value + " ");
             curr = curr.next;
         }
         System.out.println();

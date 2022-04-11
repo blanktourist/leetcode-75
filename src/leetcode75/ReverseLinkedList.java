@@ -1,13 +1,15 @@
 import Utils.LinkedListUtils;
-import models.Node;
+import models.ListNode;
 
 public class ReverseLinkedList {
-    public static Node reverseLinkedList(Node head) {
+
+    // Returns the head of the reversed linked list.
+    public static ListNode reverseLinkedList(ListNode head) {
         
-        Node prev = null;
-        Node curr = head;
+        ListNode prev = null;
+        ListNode curr = head;
         while (curr != null) {
-            Node next = curr.next;
+            ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
@@ -17,9 +19,9 @@ public class ReverseLinkedList {
     }
 
     public static void main(String[] args) {
-        Node n0 = LinkedListUtils.buildGenericLinkedList();
+        ListNode n0 = LinkedListUtils.buildGenericLinkedList();
 
-        Node reversedHead = reverseLinkedList(n0);
+        ListNode reversedHead = reverseLinkedList(n0);
 
         System.out.println(reversedHead);
         LinkedListUtils.printLinkedList(reversedHead);

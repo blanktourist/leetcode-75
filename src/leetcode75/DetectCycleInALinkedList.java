@@ -1,14 +1,14 @@
 import Utils.LinkedListUtils;
-import models.Node;
+import models.ListNode;
 
 public class DetectCycleInALinkedList {
-    public static boolean hasCycle(Node head) {
+    public static boolean hasCycle(ListNode head) {
         if (head == null || head.next == null) {
             return false;
         }
 
-        Node slow = head;
-        Node fast = head.next;
+        ListNode slow = head;
+        ListNode fast = head.next;
 
         while (slow != fast) {
             if (fast == null || fast.next == null) {
@@ -22,8 +22,8 @@ public class DetectCycleInALinkedList {
     }
 
     public static void main(String[] args) {
-        Node n0 = LinkedListUtils.buildGenericLinkedList();
-        Node m0 = LinkedListUtils.buildCycleLinkedList();
+        ListNode n0 = LinkedListUtils.buildGenericLinkedList();
+        ListNode m0 = LinkedListUtils.buildCycleLinkedList();
 
         System.out.println(hasCycle(n0));
         System.out.println(hasCycle(m0));

@@ -1,20 +1,19 @@
 import Utils.LinkedListUtils;
-import models.Node;
+import models.ListNode;
 
 public class RemoveNthNodeFromEndOfList {
     
-    public static void removeNthNodeFromEndOfList(Node head, int n) {
-        Node dummy = new Node();
+    public static void removeNthNodeFromEndOfList(ListNode head, int n) {
+        ListNode dummy = new ListNode();
         dummy.next = head;
         
         // Find length of the LinkedList
-        Node cur = head;
+        ListNode cur = head;
         int length = 0;
         while (cur != null) {
             cur = cur.next;
             length++;
         }
-
 
         // Navigate to the element to be removed and remove it
         cur = head;
@@ -25,7 +24,7 @@ public class RemoveNthNodeFromEndOfList {
     }
     
     public static void main(String[] args) {
-        Node head1 = LinkedListUtils.buildGenericLinkedList();
+        ListNode head1 = LinkedListUtils.buildGenericLinkedList();
         removeNthNodeFromEndOfList(head1, 2);
         LinkedListUtils.printLinkedList(head1);
     }
