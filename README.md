@@ -76,57 +76,56 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |40|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/) |[Java](./src/leetcode75/ReverseLinkedList.java)|Easy|
 |41|[Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/) |[Java](./src/leetcode75/DetectCycleInALinkedList.java)|Easy|
 |42|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[Java](./src/leetcode75/MergeTwoSortedLists.java)|Easy|
-|43|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Java](./src/leetcode75/MergeKSortedLists.java)|Hard|
-|44|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Java](./src/leetcode75/RemoveNthNodeFromEndOfList.java)|Medium|
-|45|[Reorder List](https://leetcode.com/problems/reorder-list/) |[Java](./src/leetcode75/ReorderList.java)|Medium|
+|43|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[Java](./src/leetcode75/RemoveNthNodeFromEndOfList.java)|Medium|
+|44|[Reorder List](https://leetcode.com/problems/reorder-list/) |[Java](./src/leetcode75/ReorderList.java)|Medium|
 
 ### Matrix
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|46|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Java](./src/leetcode75/SetMatrixZeros.java)|Medium|
-|47|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |[Java](./src/leetcode75/SpiralMatrix.java)|Medium|
-|48|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Java](./src/leetcode75/RotateImage.java)|Medium|
-|49|[Word Search](https://leetcode.com/problems/word-search/) |[Java](./src/leetcode75/WordSearch.java)|Medium|
+|45|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) |[Java](./src/leetcode75/SetMatrixZeros.java)|Medium|
+|46|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) |[Java](./src/leetcode75/SpiralMatrix.java)|Medium|
+|47|[Rotate Image](https://leetcode.com/problems/rotate-image/) |[Java](./src/leetcode75/RotateImage.java)|Medium|
+|48|[Word Search](https://leetcode.com/problems/word-search/) |[Java](./src/leetcode75/WordSearch.java)|Medium|
 
 ### String
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|50|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[Java](./src/leetcode75/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
-|51|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |[Java](./src/leetcode75/LongestRepeatingCharacterReplacement.java)|Medium|
-|52|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[Java](./src/leetcode75/MinimumWindowSubstring.java)|Hard|
-|53|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Java](./src/leetcode75/ValidAnagram.java)|Easy|
-|54|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Java](./src/leetcode75/GroupAnagrams.java)|Medium|
-|55|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[Java](./src/leetcode75/ValidParentheses.java)|Easy|
-|56|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[Java](./src/leetcode75/ValidPalindrome.java)|Easy|
-|57|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[Java](./src/leetcode75/LongestPalindromicSubstring.java)|Medium|
-|58|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[Java](./src/leetcode75/PalindromicSubstrings.java)|Medium|
-|59|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[Java](./src/leetcode75/EncodeAndDecodeStrings.java)|Medium|
+|49|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[Java](./src/leetcode75/LongestSubstringWithoutRepeatingCharacters.java)|Medium|
+|50|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) |[Java](./src/leetcode75/LongestRepeatingCharacterReplacement.java)|Medium|
+|51|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |[Java](./src/leetcode75/MinimumWindowSubstring.java)|Hard|
+|52|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[Java](./src/leetcode75/ValidAnagram.java)|Easy|
+|53|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Java](./src/leetcode75/GroupAnagrams.java)|Medium|
+|54|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[Java](./src/leetcode75/ValidParentheses.java)|Easy|
+|55|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[Java](./src/leetcode75/ValidPalindrome.java)|Easy|
+|56|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[Java](./src/leetcode75/LongestPalindromicSubstring.java)|Medium|
+|57|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) |[Java](./src/leetcode75/PalindromicSubstrings.java)|Medium|
+|58|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[Java](./src/leetcode75/EncodeAndDecodeStrings.java)|Medium|
 
 ### Tree
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|60|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Java](./src/leetcode75/MaximumDepthOfBinaryTree.java)|Easy|
-|61|[Same Tree](https://leetcode.com/problems/same-tree/) |[Java](./src/leetcode75/SameTree.java)|Easy|
-|62|[Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[Java](./src/leetcode75/InvertBinaryTree.java)|Easy|
-|63|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | |Hard|
-|64|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[Java](./src/leetcode75/BinaryTreeLevelOrderTraversal.java)|Medium|
-|65|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | |Hard|
-|66|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[Java](./src/leetcode75/SubtreeOfAnotherTree.java)|Easy|
-|67|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | |Medium|
-|68|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |[Java](./src/leetcode75/ValidateBinarySearchTree.java)|Medium|
-|69|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[Java](./src/leetcode75/KthSmallestElementInBinaryTree.java)|Medium|
-|70|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[Java](./src/leetcode75/LowestCommonAncestorOfBinarySearchTree.java)|Easy|
-|71|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | |Medium|
-|72|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | |Medium|
-|73|[Word Search II](https://leetcode.com/problems/word-search-ii/) | |Hard|
+|59|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Java](./src/leetcode75/MaximumDepthOfBinaryTree.java)|Easy|
+|60|[Same Tree](https://leetcode.com/problems/same-tree/) |[Java](./src/leetcode75/SameTree.java)|Easy|
+|61|[Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[Java](./src/leetcode75/InvertBinaryTree.java)|Easy|
+|62|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | |Hard|
+|63|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[Java](./src/leetcode75/BinaryTreeLevelOrderTraversal.java)|Medium|
+|64|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | |Hard|
+|65|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[Java](./src/leetcode75/SubtreeOfAnotherTree.java)|Easy|
+|66|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | |Medium|
+|67|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |[Java](./src/leetcode75/ValidateBinarySearchTree.java)|Medium|
+|68|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[Java](./src/leetcode75/KthSmallestElementInBinaryTree.java)|Medium|
+|69|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[Java](./src/leetcode75/LowestCommonAncestorOfBinarySearchTree.java)|Easy|
+|70|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | |Medium|
+|71|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | |Medium|
+|72|[Word Search II](https://leetcode.com/problems/word-search-ii/) | |Hard|
 
 ### Heap
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|74|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | |Hard|
-|75|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | |Medium|
-|76|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | |Hard|
+|73|[Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) |[Java](./src/leetcode75/MergeKSortedLists.java)|Hard|
+|74|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | |Medium|
+|75|[Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | |Hard|
