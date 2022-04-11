@@ -100,7 +100,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |54|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |[Java](./src/leetcode75/GroupAnagrams.java)|Medium|
 |55|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[Java](./src/leetcode75/ValidParentheses.java)|Easy|
 |56|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) |[Java](./src/leetcode75/ValidPalindrome.java)|Easy|
-|57|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | |Medium|
+|57|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |[Java](./src/leetcode75/LongestPalindromicSubstring.java)|Medium|
 |58|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | |Medium|
 |59|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) |[Java](./src/leetcode75/EncodeAndDecodeStrings.java)|Medium|
 
