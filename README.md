@@ -56,7 +56,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |30|[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[Java](./src/main/problems/graph/NumberOfIslands.java)|Medium|
 |31|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[Java](./src/main/problems/graph/LongestConsecutiveSequence.java)|Medium|
 |32|[Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) | |Hard|
-|33|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) | |Medium|
+|33|[Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) |[Java](./src/main/problems/graph/GraphValidTree.java)|Medium|
 |34|[Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) | |Medium|
 
 ### Interval
