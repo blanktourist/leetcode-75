@@ -66,8 +66,8 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |35|[Insert Interval](https://leetcode.com/problems/insert-interval/) |[Java](./src/main/problems/interval/InsertInterval.java)|Medium|
 |36|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | |Medium|
 |37|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | |Medium|
-|38|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) | |Easy|
-|39|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) | |Medium|
+|38|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) |[Java](./src/main/problems/interval/MeetingRooms.java)|Easy|
+|39|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |[Java](./src/main/problems/interval/MeetingRoomsII.java)|Medium|
 
 ### Linked List
 
