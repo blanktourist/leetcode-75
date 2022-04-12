@@ -7,7 +7,9 @@ public class GraphNode {
     
     public int value;
 
-    public List<GraphNode> neighbors;
+    public int indegree;
+
+    public List<GraphNode> neighbors; // For directed graphs, treat this as an out edge.
 
     public GraphNode() {
         this.value = 0;
