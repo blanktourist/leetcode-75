@@ -1,4 +1,6 @@
-import models.BinaryTreeNode;
+package main.problems.tree;
+
+import main.models.BinaryTreeNode;
 
 public class MaximumDepthOfBinaryTree {
     public static int returnMaximumDepthOfBinaryTree(BinaryTreeNode root) {

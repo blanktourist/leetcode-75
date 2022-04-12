@@ -1,3 +1,5 @@
+package main.problems.dp;
+
 public class CombinationSumIV {
     
     public static int numSolutions;

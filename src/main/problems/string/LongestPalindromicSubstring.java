@@ -1,3 +1,5 @@
+package main.problems.string;
+
 public class LongestPalindromicSubstring {
     public static String returnLongestPalindromicSubstring(String s) {
         if (s == null || s.length() == 0 || s.length() == 1) {

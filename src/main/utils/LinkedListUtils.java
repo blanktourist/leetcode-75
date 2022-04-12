@@ -1,6 +1,6 @@
-package utils;
+package main.utils;
 
-import models.ListNode;
+import main.models.ListNode;
 
 public class LinkedListUtils {
 

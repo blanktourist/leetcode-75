@@ -1,3 +1,5 @@
+package main.problems.dp;
+
 public class UniquePaths {
     
     public static int returnSolutionToUniquePaths(int m, int n) {

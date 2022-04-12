@@ -1,4 +1,4 @@
-package models;
+package main.models;
 
 public class Directions {
     public static int[][] DIRECTIONS_ADJACENT_4 = {{1,0},{-1,0},{0,1},{0,-1}};

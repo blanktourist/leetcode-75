@@ -1,5 +1,7 @@
-import models.Directions;
-import utils.GridUtils;
+package main.problems.matrix;
+
+import main.models.Directions;
+import main.utils.GridUtils;
 
 public class WordSearch {
     

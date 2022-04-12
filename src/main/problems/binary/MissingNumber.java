@@ -1,3 +1,5 @@
+package main.problems.binary;
+
 public class MissingNumber {
     
     public static int returnMissingNumber(int[] arr) {

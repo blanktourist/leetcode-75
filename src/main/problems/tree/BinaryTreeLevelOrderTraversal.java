@@ -1,8 +1,10 @@
+package main.problems.tree;
+
 import java.util.ArrayList;
 import java.util.List;
 
-import models.BinaryTreeNode;
-import utils.BinaryTreeUtils;
+import main.models.BinaryTreeNode;
+import main.utils.BinaryTreeUtils;
 
 public class BinaryTreeLevelOrderTraversal {
     

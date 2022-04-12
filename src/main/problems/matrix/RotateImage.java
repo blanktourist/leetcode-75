@@ -1,3 +1,5 @@
+package main.problems.matrix;
+
 import java.util.Arrays;
 
 public class RotateImage {

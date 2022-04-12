@@ -1,3 +1,5 @@
+package main.problems.string;
+
 public class LongestRepeatingCharacterReplacement {
     
     public static int returnSolutionToLongestRepeatingCharacterReplacement(String s, int k) {

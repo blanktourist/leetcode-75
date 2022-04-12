@@ -1,9 +1,9 @@
-package utils;
+package main.utils;
 
 import java.util.HashSet;
 import java.util.PriorityQueue;
 
-import models.GraphNode;
+import main.models.GraphNode;
 
 public class GraphNodeUtils {
     

@@ -1,3 +1,5 @@
+package main.problems.array;
+
 import java.util.HashSet;
 import java.util.Set;
 

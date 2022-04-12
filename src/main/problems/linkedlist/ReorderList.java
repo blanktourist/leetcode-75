@@ -1,5 +1,7 @@
-import models.ListNode;
-import utils.LinkedListUtils;
+package main.problems.linkedlist;
+
+import main.models.ListNode;
+import main.utils.LinkedListUtils;
 
 public class ReorderList {
     public static void reorderList(ListNode head) {

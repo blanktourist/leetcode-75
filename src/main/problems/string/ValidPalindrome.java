@@ -1,3 +1,5 @@
+package main.problems.string;
+
 public class ValidPalindrome {
     public static boolean isValidPalindrome(String s) {
         int l = 0;

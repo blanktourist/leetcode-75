@@ -1,9 +1,11 @@
+package main.problems.graph;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.List;
 
-import models.GraphNode;
-import utils.GraphNodeUtils;
+import main.models.GraphNode;
+import main.utils.GraphNodeUtils;
 
 public class CloneGraph {
     public static GraphNode cloneGraph(GraphNode node) {

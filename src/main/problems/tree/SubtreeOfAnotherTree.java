@@ -1,5 +1,7 @@
-import models.BinaryTreeNode;
-import utils.BinaryTreeUtils;
+package main.problems.tree;
+
+import main.models.BinaryTreeNode;
+import main.utils.BinaryTreeUtils;
 
 public class SubtreeOfAnotherTree {
     public static boolean isSubtreeOfAnotherTree(BinaryTreeNode tree, BinaryTreeNode subtree) {

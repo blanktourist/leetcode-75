@@ -1,3 +1,5 @@
+package main.problems.string;
+
 public class ValidAnagram {
     public static boolean isAnagram(String s, String t) {
         s = s.toLowerCase();

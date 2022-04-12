@@ -1,5 +1,7 @@
-import models.Directions;
-import utils.GridUtils;
+package main.problems.graph;
+
+import main.models.Directions;
+import main.utils.GridUtils;
 
 public class NumberOfIslands {
     public static int countNumberOfIslands(char[][] grid) {

@@ -1,3 +1,5 @@
+package main.problems.interval;
+
 import java.util.Arrays;
 import java.util.LinkedList;
 

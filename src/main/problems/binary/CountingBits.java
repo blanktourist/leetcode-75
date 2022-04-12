@@ -1,3 +1,5 @@
+package main.problems.binary;
+
 import java.util.Arrays;
 
 public class CountingBits {

@@ -1,3 +1,5 @@
+package main.problems.string;
+
 import java.util.Stack;
 
 public class ValidParentheses {

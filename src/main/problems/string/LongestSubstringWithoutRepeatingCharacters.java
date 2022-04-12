@@ -1,3 +1,5 @@
+package main.problems.string;
+
 public class LongestSubstringWithoutRepeatingCharacters {
     public static int returnLengthOfLongestSubstringWithoutRepeatingCharacters(String s) {
         int[] count = new int[128];

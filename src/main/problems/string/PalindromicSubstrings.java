@@ -1,3 +1,5 @@
+package main.problems.string;
+
 import java.util.HashSet;
 import java.util.List;
 

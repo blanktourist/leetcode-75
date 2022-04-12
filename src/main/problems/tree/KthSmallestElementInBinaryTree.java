@@ -1,7 +1,9 @@
+package main.problems.tree;
+
 import java.util.LinkedList;
 
-import models.BinaryTreeNode;
-import utils.BinaryTreeUtils;
+import main.models.BinaryTreeNode;
+import main.utils.BinaryTreeUtils;
 
 public class KthSmallestElementInBinaryTree {
 

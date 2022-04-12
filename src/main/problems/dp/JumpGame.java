@@ -1,3 +1,5 @@
+package main.problems.dp;
+
 public class JumpGame {
     
     public static boolean returnSolutionToJumpGame(int[] arr) {

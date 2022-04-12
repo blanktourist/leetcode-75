@@ -1,3 +1,5 @@
+package main.problems.binary;
+
 public class ReverseBits {
    
    public static int returnReverseBits(int n) {

@@ -1,10 +1,12 @@
+package main.problems.heap;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 import java.util.PriorityQueue;
 
-import models.ListNode;
-import utils.LinkedListUtils;
+import main.models.ListNode;
+import main.utils.LinkedListUtils;
 
 public class MergeKSortedLists {
     

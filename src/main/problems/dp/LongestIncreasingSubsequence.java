@@ -1,3 +1,5 @@
+package main.problems.dp;
+
 import java.util.Arrays;
 
 public class LongestIncreasingSubsequence {

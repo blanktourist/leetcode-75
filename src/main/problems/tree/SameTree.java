@@ -1,4 +1,6 @@
-import models.BinaryTreeNode;
+package main.problems.tree;
+
+import main.models.BinaryTreeNode;
 
 public class SameTree {
     public static boolean isSameTree(BinaryTreeNode head1, BinaryTreeNode head2) {

@@ -1,3 +1,5 @@
+package main.problems.dp;
+
 public class HouseRobber {
     
     public static int returnSolutionToHouseRobber(int[] houses) {

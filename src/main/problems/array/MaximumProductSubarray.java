@@ -1,3 +1,5 @@
+package main.problems.array;
+
 public class MaximumProductSubarray {
     
     /**

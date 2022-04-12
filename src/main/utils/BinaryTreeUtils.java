@@ -1,6 +1,6 @@
-package utils;
+package main.utils;
 
-import models.BinaryTreeNode;
+import main.models.BinaryTreeNode;
 
 public class BinaryTreeUtils {
     public static BinaryTreeNode buildGenericBinaryTree() {

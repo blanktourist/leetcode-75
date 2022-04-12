@@ -1,3 +1,5 @@
+package main.problems.dp;
+
 public class LongestCommonSubsequence {
     
     public static int returnLengthOfLongestCommonSubsequence(String s, String t) {
