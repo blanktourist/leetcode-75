@@ -119,7 +119,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |68|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[Java](./src/main/problems/tree/KthSmallestElementInBinaryTree.java)|Medium|
 |69|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[Java](./src/main/problems/tree/LowestCommonAncestorOfBinarySearchTree.java)|Easy|
 |70|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | |Medium|
-|71|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | |Medium|
+|71|[Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) |[Java](./src/main/problems/tree/AddAndSearchWord.java)|Medium|
 |72|[Word Search II](https://leetcode.com/problems/word-search-ii/) | |Hard|
 
 ### Heap
