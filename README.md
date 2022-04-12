@@ -50,7 +50,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|27|[Clone Graph](https://leetcode.com/problems/clone-graph/) |[Java](../src/main/problems/graph/loneGraph.java)|Medium|
+|27|[Clone Graph](https://leetcode.com/problems/clone-graph/) |[Java](./src/main/problems/graph/CloneGraph.java)|Medium|
 |28|[Course Schedule](https://leetcode.com/problems/course-schedule/) |[Java](./src/main/problems/graph/CourseSchedule.java)|Medium|
 |29|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | |Medium|
 |30|[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[Java](./src/main/problems/graph/NumberOfIslands.java)|Medium|
