@@ -64,7 +64,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |35|[Insert Interval](https://leetcode.com/problems/insert-interval/) |[Java](./src/main/problems/interval/InsertInterval.java)|Medium|
-|36|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) | |Medium|
+|36|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) |[Java](./src/main/problems/interval/MergeIntervals.java)|Medium|
 |37|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[Java](./src/main/problems/interval/NonOverlappingIntervals.java)|Medium|
 |38|[Meeting Rooms](https://leetcode.com/problems/meeting-rooms/) |[Java](./src/main/problems/interval/MeetingRooms.java)|Easy|
 |39|[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) |[Java](./src/main/problems/interval/MeetingRoomsII.java)|Medium|
