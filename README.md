@@ -110,7 +110,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |59|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[Java](./src/main/problems/tree/MaximumDepthOfBinaryTree.java)|Easy|
 |60|[Same Tree](https://leetcode.com/problems/same-tree/) |[Java](./src/main/problems/tree/SameTree.java)|Easy|
 |61|[Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[Java](./src/main/problems/tree/InvertBinaryTree.java)|Easy|
-|62|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | |Hard|
+|62|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |[Java](./src/main/problems/tree/BinaryTreeMaximumPathSum.java)|Hard|
 |63|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[Java](./src/main/problems/tree/BinaryTreeLevelOrderTraversal.java)|Medium|
 |64|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | |Hard|
 |65|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[Java](./src/main/problems/tree/SubtreeOfAnotherTree.java)|Easy|
