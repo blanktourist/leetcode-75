@@ -6,6 +6,8 @@ import java.util.Map;
 public class TrieNode {
 
     public boolean word;
+
+    public String toString;
     
     public Map<Character, TrieNode> children;
 
