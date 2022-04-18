@@ -114,7 +114,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |63|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |[Java](./src/main/problems/tree/BinaryTreeLevelOrderTraversal.java)|Medium|
 |64|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |[Java](./src/main/problems/tree/SerializeAndDeserializeBinaryTree.java)|Hard|
 |65|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[Java](./src/main/problems/tree/SubtreeOfAnotherTree.java)|Easy|
-|66|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | |Medium|
+|66|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |[Java](./src/main/problems/tree/ConstructBinaryTreeFromPreorderInorderTraversal.java)|Medium|
 |67|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |[Java](./src/main/problems/tree/ValidateBinarySearchTree.java)|Medium|
 |68|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[Java](./src/main/problems/tree/KthSmallestElementInBinaryTree.java)|Medium|
 |69|[Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[Java](./src/main/problems/tree/LowestCommonAncestorOfBinarySearchTree.java)|Easy|
