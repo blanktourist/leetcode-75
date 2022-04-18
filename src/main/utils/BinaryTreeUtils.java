@@ -1,5 +1,9 @@
 package main.utils;
 
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 import main.models.BinaryTreeNode;
 
 public class BinaryTreeUtils {
@@ -55,5 +59,45 @@ public class BinaryTreeUtils {
         System.out.println(root.value);
         printBinaryTree(root.left);
         printBinaryTree(root.right);
+    }
+
+    public class BinaryTreeCodec {
+
+        // Encode a tree to a string string.
+        public static String serialize(BinaryTreeNode root) {
+            return rSerialize(root, "");
+        }
+
+        private static String rSerialize(BinaryTreeNode root, String str) {
+            if (root == null) {
+                str += "null,";
+            } else {
+                str += (String.valueOf(root.value) + ",");
+                str = rSerialize(root.left, str);
+                str = rSerialize(root.right, str);
+            }
+            return str;
+        }
+
+        // Decode your encoded data to tree
+        public static BinaryTreeNode deserialize(String data) {
+            String[] dataArray = data.split(",");
+            List<String> dataList = new ArrayList<String>(Arrays.asList(dataArray));
+            return rDeserialize(dataList);
+        }
+
+        private static BinaryTreeNode rDeserialize(List<String> l) {
+            if (l.get(0).equals("null")) {
+                l.remove(0);
+                return null;
+            }
+
+            BinaryTreeNode root = new BinaryTreeNode(Integer.valueOf(l.get(0)));
+            l.remove(0);
+            root.left = rDeserialize(l);
+            root.right = rDeserialize(l);
+
+            return root;
+        }
     }
 }
