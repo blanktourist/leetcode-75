@@ -9,7 +9,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 | # | Title | Solution | Difficulty | Video Solution |
 |---| ----- | -------- | ---------- | -------------- |
 |1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Java](./src/main/java/problems/array/TwoSum.java)[Python](./src/main/python/twosum.py)|Easy|[link](https://youtu.be/KLlXCFG5TnA)
-|2|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./src/main/java/problems/array/BestTimeToBuyAndSellStock.java)|Easy|[link](https://youtu.be/1pkOgXD63yU)
+|2|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Java](./src/main/java/problems/array/BestTimeToBuyAndSellStock.java)[Python](./src/main/python/besttimetobuyandsellstock.py)|Easy|[link](https://youtu.be/1pkOgXD63yU)
 |3|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Java](./src/main/java/problems/array/ContainsDuplicate.java)|Easy|[link](https://youtu.be/3OamzN90kPg)
 |4|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Java](./src/main/java/problems/array/ProductOfArrayExceptSelf.java)|Medium|[link](https://youtu.be/bNvIQI2wAjk)
 |5|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)|[Java](./src/main/java/problems/array/MaximumSubarray.java)|Easy|[link](https://youtu.be/5WZl3MMT0Eg)
