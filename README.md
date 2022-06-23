@@ -35,7 +35,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 | # | Title | Solution | Difficulty | Video Solution |
 |---| ----- | -------- | ---------- | -------------- |
 |16|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Java](./src/main/java/problems/dp/ClimbingStairs.java) [Python](./src/main/python/climbingstairs.py)|Easy|[link](https://youtu.be/Y0lT9Fck7qI)
-|17|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./src/main/java/problems/dp/CoinChange.java)|Medium|[link](https://youtu.be/H9bfqozjoqs)
+|17|[Coin Change](https://leetcode.com/problems/coin-change/)|[Java](./src/main/java/problems/dp/CoinChange.java) [Python](./src/main/python/coinchange.py)|Medium|[link](https://youtu.be/H9bfqozjoqs)
 |18|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)|[Java](./src/main/java/problems/dp/LongestIncreasingSubsequence.java)|Medium|[link](https://youtu.be/cjWnW0hdF1Y)
 |19|[Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)|[Java](./src/main/java/problems/dp/LongestCommonSubsequence.java)|Medium|[link](https://youtu.be/Ua0GhsJSlWM)
 |20|[Word Break Problem](https://leetcode.com/problems/word-break/)|[Java](./src/main/java/problems/dp/WordBreak.java)|Medium|[link](https://youtu.be/Sx9NNgInc3A)
