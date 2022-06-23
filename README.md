@@ -16,7 +16,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |6|[Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)|[Java](./src/main/java/problems/array//MaximumProductSubarray.java) [Python](./src/main/python/maximumproductsubarray.py)|Medium|[link](https://youtu.be/lXVy6YWFcRM)
 |7|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Java](./src/main/java/problems/array/FindMinimumInRotatedSortedArray.java)|Medium|[link](https://youtu.be/nIVW4P8b1VA)
 |8|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Java](./src/main/java/problems/array/SearchInRotatedSortedArray.java)|Medium|[link](https://youtu.be/U8XENwh8Oy8)
-|9|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./src/main/java/problems/array/ThreeSum.java)|Medium|[link](https://youtu.be/jzZsG8n2R9A)
+|9|[3Sum](https://leetcode.com/problems/3sum/)|[Java](./src/main/java/problems/array/ThreeSum.java) [Python](./src/main/python/threesum.py)|Medium|[link](https://youtu.be/jzZsG8n2R9A)
 |10|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Java](./src/main/java/problems/array/ContainerWithMostWater.java) [Python](./src/main/python/containerwithmostwater.py)|Medium|[link](https://youtu.be/UuiTKBwPgAo)
 
 ### Binary
