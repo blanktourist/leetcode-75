@@ -73,7 +73,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 
 | # | Title | Solution | Difficulty | Video Solution |
 |---| ----- | -------- | ---------- | -------------- |
-|40|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./src/main/java/problems/linkedlist/ReverseLinkedList.java)|Easy|[link](https://youtu.be/G0_I-ZF0S38)
+|40|[Reverse a Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Java](./src/main/java/problems/linkedlist/ReverseLinkedList.java) [Python](./src/main/python/reverselinkedlist.py)|Easy|[link](https://youtu.be/G0_I-ZF0S38)
 |41|[Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)|[Java](./src/main/java/problems/linkedlist/DetectCycleInALinkedList.java)|Easy|[link](https://youtu.be/gBTe7lFR3vc)
 |42|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Java](./src/main/java/problems/linkedlist/MergeTwoSortedLists.java)|Easy|[link](https://youtu.be/XIdigk956u0)
 |43|[Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Java](./src/main/java/problems/linkedlist/RemoveNthNodeFromEndOfList.java)|Medium|[link](https://youtu.be/XVuQxVej6y8)
