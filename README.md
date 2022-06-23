@@ -85,7 +85,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |---| ----- | -------- | ---------- | -------------- |
 |45|[Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)|[Java](./src/main/java/problems/matrix/SetMatrixZeros.java) [Python](./src/main/python/setmatrixzeros.py)|Medium|[link](https://youtu.be/T41rL0L3Pnw)
 |46|[Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)|[Java](./src/main/java/problems/matrix/SpiralMatrix.java) [Python](./src/main/python/spiralmatrix.py)|Medium|[link](https://youtu.be/BJnMZNwUk1M)
-|47|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./src/main/java/problems/matrix/RotateImage.java)|Medium|[link](https://youtu.be/fMSJSS7eO1w)
+|47|[Rotate Image](https://leetcode.com/problems/rotate-image/)|[Java](./src/main/java/problems/matrix/RotateImage.java) [Python](./src/main/python/rotateimage.py)|Medium|[link](https://youtu.be/fMSJSS7eO1w)
 |48|[Word Search](https://leetcode.com/problems/word-search/)|[Java](./src/main/java/problems/matrix/WordSearch.java)|Medium|[link](https://youtu.be/pfiQ_PS1g8E)
 
 ### String
