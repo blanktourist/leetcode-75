@@ -97,7 +97,7 @@ Source: https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-Le
 |51|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Java](./src/main/java/problems/string/MinimumWindowSubstring.java)|Hard|[link](https://youtu.be/jSto0O4AJbM)
 |52|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Java](./src/main/java/problems/string/ValidAnagram.java) [Python](./src/main/python/validanagram.py)|Easy|[link](https://youtu.be/9UtInBqnCgA)
 |53|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Java](./src/main/java/problems/string/GroupAnagrams.java)|Medium|[link](https://youtu.be/vzdNOK2oB2E)
-|54|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./src/main/java/problems/string/ValidParentheses.java)|Easy|[link](https://youtu.be/WTzjTskDFMg)
+|54|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Java](./src/main/java/problems/string/ValidParentheses.java) [Python](./src/main/python/validparentheses.py)|Easy|[link](https://youtu.be/WTzjTskDFMg)
 |55|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Java](./src/main/java/problems/string/ValidPalindrome.java)|Easy|[link](https://youtu.be/jJXJ16kPFWg)
 |56|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Java](./src/main/java/problems/string/LongestPalindromicSubstring.java)|Medium|[link](https://youtu.be/XYQecbcd6_c)
 |57|[Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)|[Java](./src/main/java/problems/string/PalindromicSubstrings.java)|Medium|[link](https://youtu.be/4RACzI5-du8)
